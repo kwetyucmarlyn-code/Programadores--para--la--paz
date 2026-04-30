@@ -1,0 +1,3 @@
+- Corroborar si la información esta actualizada
+- Buscar la información en distintas fuentes
+- Compartir cuando la información sea confiable
