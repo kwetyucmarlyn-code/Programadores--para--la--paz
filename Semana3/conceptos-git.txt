@@ -1,0 +1,7 @@
+Repositorio:
+Es el lugar donde se almacena el código, los archivos y el historial de los cambios o registros que se realizan. A partir del repositorio se puede compartir información y trabajar en equipo de forma segura. 
+commit:
+Es como una captura instantantea del proyecto, que guarda  los cambios realizados en el historial del repositorio.
+push: 
+es aquel que permite subir los cambios realizados en el repositorio local al repositorio remoto. 
+

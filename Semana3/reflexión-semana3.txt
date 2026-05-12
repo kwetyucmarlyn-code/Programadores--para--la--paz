@@ -1,0 +1,1 @@
+Es importante porque git permite registrar de manera detallada los cambios que se realicen, esta herramienta tambien permite ampliar y organizar la información creando ramas y sin desligarse del código principal. También es importante porque permite trabajar en conjunto y compartir la información de forma segura y rapida. 
