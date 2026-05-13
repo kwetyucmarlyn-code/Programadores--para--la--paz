@@ -4,6 +4,6 @@ Es el lugar donde se almacena el código, los archivos y el historial de los cam
 2 commit:
 Es como una captura instantantea del proyecto, que guarda  los cambios realizados en el historial del repositorio.
 
-2 push: 
+2 push:
 Es aquel que permite subir los cambios realizados en el repositorio local al repositorio remoto. 
 
