@@ -1,0 +1,1 @@
+Es importante construir herramientas tecnológicas propias utilizando tecnologias abiertas como Node.js porque esto fortalece el conocimiento de las comunidades en cuanto al uso y manejo de la información o los datos; las personas o la comunidad pueden crear, diseñar y utilizar con facilidad las plataformas, brindando agilidad y un control ordenado y seguro de las informaciones. 
