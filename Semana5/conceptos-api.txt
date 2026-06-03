@@ -1,0 +1,1 @@
+Con esta ruta se puede recibir información la cual a su vez se registra de forma segura, por ello se menciona que no se puede ver en la URL, de tal forma es eficiente para las comunidades porque los datos se manejan de forma organizada y confidencial. 

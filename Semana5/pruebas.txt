@@ -1,0 +1,1 @@
+Cada ruta muestra la solicitud o el trabajo que fue realizado al escribir el código y cada mensaje que llevaría a estas rutas.
