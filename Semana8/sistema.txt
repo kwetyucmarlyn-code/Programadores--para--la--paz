@@ -1,0 +1,6 @@
+1:
+a: Linux localhost 4.19.132-24202344 #1 SMP PREEMPT Tue Jun 4 06:57:40 KST 2024 aarch64 Android
+b: u0_a306 
+
+2: Es útil porque tendremos la confianza para trabajar y saber qué y dónde se esta realizando una tarea. 
+

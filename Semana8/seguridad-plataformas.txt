@@ -1,0 +1,5 @@
+1: Verificar con información segura la identidad de los usuarios.
+2: No mostrar información confidencial 
+3: Actualizar constantemente la plataforma
+4: Permitir el acceso a la información necesaria y requerida por los usuarios.
+5: No abrir o compartir información que no sea segura 

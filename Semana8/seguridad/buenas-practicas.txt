@@ -1,0 +1,3 @@
+1: No abrir cualquier dirección o archivo  desconocido, se debe tener cuidado con los enlaces que nos comparten o parecen llamativos. 
+2: Crear y usar contraseñas seguras, que no se repitan. 
+3: Realizar copias de seguridad periodicamente y proteger los datos. 
