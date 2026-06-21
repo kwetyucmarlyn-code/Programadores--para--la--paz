@@ -1,0 +1,6 @@
+1. Sistema operativo: Es la base y parte esencial del funcionamiento organizado de computador o un dispositivo. El sistema operativo permite toda la función de los programas los archivos, las aplicaciones y otros, por eso es importante conocer cuál es el sistema operativo que manejamos y cómo nos ayuda al buen desarrollo de nuestros trabajos.
+2. Node.js: Es el entorno que permite ejecutar JavaScript fuera del navegador web; y es útil para crear servidores, ejecutar archivos, desarrollar backend. 
+3. Aplicación server.js: es el archivo de configuración de un servidor node.js, permite escribir el código para inicializar el programa y que escuche las peticiones. 
+4: Puerto: es el número que ayuda a identificar por donde se conecta una aplicación o servicio. 
+5. Logs: se encarga de documentar o registrar la actividad y eventos, errores o acciones que ocurren dentro del sistema. 
+ 
