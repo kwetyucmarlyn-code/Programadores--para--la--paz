@@ -1,4 +1,4 @@
-1 : Cuando se ejecuta node server.js el código escrito en el archivo server.js y lo ejecuta directamente en el servidor. 
+1 : Cuando se ejecuta node server.js, se muestra directamente la ejecución del código escrito en el archivo server.js 
 2 : Servidor ejecutándose en puerto 3000
 3 :
  {

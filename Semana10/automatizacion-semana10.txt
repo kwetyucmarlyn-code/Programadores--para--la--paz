@@ -1,0 +1,3 @@
+1: Un evento que activa el flujo puede ser un nuevo reporte de alguna situación.
+2: A Telegram se podría enviar el mensaje: “Nuevo reporte recibido. Revisar sistema.”
+3: La información que no debe enviarse son datos personales como  nombres completos, contraseñas, documentos de identidad, datos sensibles o información personal. .

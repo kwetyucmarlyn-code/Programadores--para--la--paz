@@ -1,0 +1,4 @@
+1: Como apoyo al equipo veedor quiero reportar los avances del proyecto comunitario para realizar una evaluación conjuntamente.
+2: Como integrante de esta organización quiero solicitar la información de la situación que esta ocurriendo.
+3: Como apoyo al equipo quiero registrar los hechos que estan sucediendo y la verificación que esta realizando el equipo.
+4: Como ciudadano quiero reportar los acompañarealiza y avances realizados por los entes encargados. 

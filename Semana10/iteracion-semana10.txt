@@ -1,0 +1,3 @@
+1: Realizaria primeramente la creación del interfaz y luego trabajar en el formulario.
+2: Son importantes porque se empieza a priorizar y dar un orden al trabajo.
+3: Que una tarea este terminada quiere decir que se cumplieron los pasos y las pruebas para que funcion3, también se evidencia que ha sido terminada cuuando de comprueba que aparece registrada en Git. 
