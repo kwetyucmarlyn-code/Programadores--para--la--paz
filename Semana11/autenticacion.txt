@@ -1,0 +1,6 @@
+1. El login en una aplicación es el proceso que permite identificar a un usuario para poder acceder de forma segura a ciertas funciones o interctuar con los servicios de la aplicación. 
+
+2. Algunas rutas deben estar protegidas para garantizar la seguridad y la privacidad de la información, se protegen para que los datos sensibles no estén expuestos al público y sean manejados responsablemente.
+
+3. No deben exponerse al público datos personales como documentos de identidad, contraseñas, tokens, datos sensibles, claves API o direcciones. 
+

@@ -1,0 +1,4 @@
+La interfaz tendría una sección para construir un formulario con actividades comunitaria con título, fechas y mensajes descriptivo.
+Cada actividad se describe de forma ordenada y debe registrar cuando ocurra una interacción.
+La interfaz mostrará las actividades de forma sencilla.
+
