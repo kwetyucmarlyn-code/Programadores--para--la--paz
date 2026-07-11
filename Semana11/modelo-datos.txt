@@ -1,4 +1,4 @@
-Entidad: Causa
+Entidad: Actividades
 
 Campos principales:
 - id
@@ -7,16 +7,16 @@ Campos principales:
 - fecha
 
 Propósito:
-Guardar las causas comunitarias que serán visibles en la plataforma.
+Registrar las actividades programadas para el fortalecimiento del proceso de formación comunitaria.
 
 
-Entidad: Apoyo
+Entidad: valoraciones
 
 Campos principales:
 - id
-- causa_id
+- Actividades_id
 - usuario
 - fecha
 
 Propósito:
-Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación.
+Guardar las valoraciones realizadas a las actividades. 
