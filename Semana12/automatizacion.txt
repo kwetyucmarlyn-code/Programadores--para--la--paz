@@ -1,0 +1,3 @@
+Evento: nueva solicitud recibida
+Mensaje: “Nueva solicitud recibida, realizar seguimiento”
+Información que no debe enviar: datos personales, teléfonos, direcciones, contraseñas o tokens. 

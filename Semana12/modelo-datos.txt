@@ -1,0 +1,14 @@
+Causa: representa la solicitud o necesidad comunitaria
+
+id
+titulo "solicitud de seguimiento al estado de la vía principal" 
+descripcion: "la comunidad solicita activar la ruta de seguimiento al estado de la vía e intervención por su deterioro"
+fecha
+
+Apoyo: representa el apoyo de una persona a la causa 
+
+id
+causa_id
+nombre: "aporte del ciudadano"
+comentario: "apoyo la solicitud para el mejoramiento de la vía y beneficio comunitario"
+fecha

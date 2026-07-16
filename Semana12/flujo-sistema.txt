@@ -1,0 +1,6 @@
+1. Un ciudadano crea una causa
+2. Se registra la causa en  la base de datos.
+3. Otros ciudadanos apoyan la causa 
+4. Se guarda el registro de los apoyos recibidos.
+5  Se notifica un nuevo apoyo por n8n y Telegram 
+
